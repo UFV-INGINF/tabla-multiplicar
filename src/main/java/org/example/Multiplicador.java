@@ -9,9 +9,7 @@ public class Multiplicador {
     }
 
     public Multiplicador(int numero) {
-
         this.numero = numero;
-
     }
 
     public void multiplicar() {

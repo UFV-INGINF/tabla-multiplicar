@@ -8,7 +8,9 @@ public class Main {
         System.out.println("Multiplication table 5");
         System.out.println("========================");
 
-        Multiplicador multiplicador = new Multiplicador(100);
-        multiplicador.multiplicar();
+//        Multiplicador multiplicador = new Multiplicador(100);
+//        multiplicador.multiplicar();
+
+        Operations.multiplicar(5);
     }
 }
